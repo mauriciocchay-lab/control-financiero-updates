@@ -1,0 +1,12 @@
+{
+  "version": "3.1.1",
+  "date": "2026-10-01",
+  "channel": "ESTABLE",
+  "notes": [
+    "Primera prueba del canal real de actualización asistida.",
+    "Descarga y validación mediante SHA-256.",
+    "Sin cambios en la lógica financiera ni en BASE_CONTROL_FINANCIERO.xlsx."
+  ],
+  "installerUrl": "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.1.1/CONTROL_FINANCIERO_CBI_V3.1.1_SETUP.exe",
+  "sha256": "281cc7550096e39770e9c1926346cb0b698efc112fec2a6be9d7f476468e9b4f"
+}
