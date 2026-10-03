@@ -1,14 +1,15 @@
 {
-    "version":  "3.2.3",
+    "version":  "3.2.4",
     "date":  "2026-10-03",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Composición de egresos e ingresos se adapta al ancho disponible.",
-                  "Se elimina el scroll interno de estas tarjetas.",
-                  "Las filas, barras y valores se compactan progresivamente en notebook.",
-                  "Sin cambios en cálculos financieros ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Fechas, bancos, documentos, estados y montos permanecen en una sola linea.",
+                  "Registro Maestro, CxC/CxP y Cartolas ajustan sus columnas al ancho del monitor.",
+                  "Tipografia y espaciado se compactan progresivamente en notebook.",
+                  "Los textos largos muestran el contenido completo al pasar el cursor.",
+                  "Sin cambios en calculos ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.3/CONTROL_FINANCIERO_CBI_V3.2.3_UPDATE.zip",
-    "packageSha256":  "3ec697ed0c30676d39ce92574b275a1dc5949ec8fd48f29da93d3985b5cbbec5"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.4/CONTROL_FINANCIERO_CBI_V3.2.4_UPDATE.zip",
+    "packageSha256":  "55d8d222311236c256233bbbaf97a0aabf33f6d2d975529e9c45416bc005f22b"
 }
