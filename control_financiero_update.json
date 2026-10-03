@@ -1,13 +1,13 @@
 {
-    "version":  "3.2.1",
+    "version":  "3.2.2",
     "date":  "2026-10-03",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Prueba de actualizacion interna sin instalador.",
-                  "Validacion de respaldo automatico y reinicio.",
-                  "Sin cambios en calculos ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Seguridad local reforzada.",
+                  "Mejoras responsive para notebook.",
+                  "Sin cambios en cálculos ni Excel."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.1/CONTROL_FINANCIERO_CBI_V3.2.1_UPDATE.zip",
-    "packageSha256":  "7bcd90cf3bd0201bf1c107fc9cc6747773cba3cc4688cc1a931d9828f1d0399d"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.2/CONTROL_FINANCIERO_CBI_V3.2.2_UPDATE.zip",
+    "packageSha256":  "7355ff84f35d1ba46a16eb926e6e7d6abcc8fda5d83624716fa1352bb71b5d84"
 }
