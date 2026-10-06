@@ -1,16 +1,15 @@
 {
-    "version":  "3.2.8",
+    "version":  "3.2.9",
     "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Dashboard personalizable con modo Editar diseño.",
-                  "Los bloques se pueden mover y redimensionar dentro de una grilla de 12 columnas.",
-                  "La distribución se guarda localmente en cada PC.",
-                  "Incluye Restaurar diseño predeterminado.",
-                  "En notebook el diseño se adapta automáticamente sin perder la configuración guardada.",
-                  "Sin cambios en cálculos financieros ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Editor visual del Dashboard perfeccionado.",
+                  "Movimiento con control de esquina y Pointer Events.",
+                  "Redimensionado con ajuste a cuadrícula y medida visible.",
+                  "Filtros del Dashboard ahora se pueden mover y redimensionar.",
+                  "Sin cambios en cálculos ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.8/CONTROL_FINANCIERO_CBI_V3.2.8_UPDATE.zip",
-    "packageSha256":  "53ab6716d6fc831dc8f8d46c9a572841421078e5849d4f74f2ed0d39dccb367e"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.9/CONTROL_FINANCIERO_CBI_V3.2.9_UPDATE.zip",
+    "packageSha256":  "51a78688304892801ec2ee87e6eebcc4e1b333f5fcc8aa93f823231e703feb4f"
 }
