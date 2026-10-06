@@ -1,15 +1,16 @@
 {
-    "version":  "3.2.4",
-    "date":  "2026-10-03",
+    "version":  "3.2.5",
+    "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Fechas, bancos, documentos, estados y montos permanecen en una sola linea.",
-                  "Registro Maestro, CxC/CxP y Cartolas ajustan sus columnas al ancho del monitor.",
-                  "Tipografia y espaciado se compactan progresivamente en notebook.",
-                  "Los textos largos muestran el contenido completo al pasar el cursor.",
-                  "Sin cambios en calculos ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Dashboard reordenado para lectura ejecutiva.",
+                  "Composición de ingresos y egresos trasladada bajo el resumen por centro.",
+                  "Comparación de centros ubicada en el panel lateral principal.",
+                  "Gráfico mensual ampliado y con mayor legibilidad numérica.",
+                  "Eliminado el resumen total redundante del período.",
+                  "Sin cambios en cálculos ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.4/CONTROL_FINANCIERO_CBI_V3.2.4_UPDATE.zip",
-    "packageSha256":  "55d8d222311236c256233bbbaf97a0aabf33f6d2d975529e9c45416bc005f22b"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.5/CONTROL_FINANCIERO_CBI_V3.2.5_UPDATE.zip",
+    "packageSha256":  "facaf1fe2f2da08c911e4af223c4f019e6320c1f7b452e700b7fb3293d490163"
 }
