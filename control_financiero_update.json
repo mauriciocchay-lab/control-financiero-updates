@@ -1,16 +1,15 @@
 {
-    "version":  "3.2.17",
+    "version":  "3.2.18",
     "date":  "2026-10-06",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Reordenamiento simetrico de la seccion Rendimiento de centros de costo.",
-                  "Lectura ejecutiva y composicion agrupadas en la columna derecha.",
-                  "Resultado e Ingresos vs Egresos equilibrados en dos columnas.",
-                  "CxC, CxP y Detalle por centro alineados en una fila inferior de tres columnas.",
-                  "Se mantienen filtros, drilldowns y navegacion.",
+                  "Correccion de distribucion de la seccion Rendimiento de centros de costo.",
+                  "Se reordena la pantalla en una grilla simetrica y estable.",
+                  "CxC, CxP y Detalle vuelven a mostrarse dentro de tarjetas correctamente alineadas.",
+                  "Lectura ejecutiva y composicion quedan ordenadas en la columna derecha.",
                   "Sin cambios en logica financiera ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.17/CONTROL_FINANCIERO_CBI_V3.2.17_UPDATE.zip",
-    "packageSha256":  "7b12da1fc3f72d216071897e42ad201b799de999152d47129b3d2662959a6295"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.18/CONTROL_FINANCIERO_CBI_V3.2.18_UPDATE.zip",
+    "packageSha256":  "b2d38a7c182bac8dcb03517e8bc08ac464706171d3a34ed2b8f3ad58e5556219"
 }
