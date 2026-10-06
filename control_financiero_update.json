@@ -1,16 +1,15 @@
 {
-    "version":  "3.2.10",
+    "version":  "3.2.11",
     "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Las tarjetas adaptan textos, filas, barras y columnas al tamaño seleccionado.",
-                  "Composición de ingresos y egresos usa scroll interno automáticamente al reducir altura o tener muchas categorías.",
-                  "Las tarjetas de centros reorganizan automáticamente su grilla según el ancho disponible.",
-                  "Los filtros se reorganizan automáticamente al modificar el tamaño del bloque.",
-                  "El gráfico mensual se adapta mejor al alto disponible.",
+                  "Editor de Dashboard estabilizado para evitar saltos y movimiento de la pantalla.",
+                  "Los bloques ya no se reordenan continuamente mientras se arrastran; la posición se aplica al soltar.",
+                  "El redimensionado muestra una vista previa numérica y aplica el tamaño al soltar.",
+                  "Se mantiene la adaptación interna y scroll de tarjetas.",
                   "Sin cambios en cálculos financieros ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.10/CONTROL_FINANCIERO_CBI_V3.2.10_UPDATE.zip",
-    "packageSha256":  "f8520cee1d6437942f6e4443b742490c4e7e84132a007df42610696c24b0812a"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.11/CONTROL_FINANCIERO_CBI_V3.2.11_UPDATE.zip",
+    "packageSha256":  "6baa4168af5ad0fb89aa43a0d582eeadaec7b80d094e7a3a7dc706a18760be7e"
 }
