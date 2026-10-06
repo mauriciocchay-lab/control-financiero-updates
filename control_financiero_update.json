@@ -1,16 +1,15 @@
 {
-    "version":  "3.2.20",
+    "version":  "3.2.21",
     "date":  "2026-10-06",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Corrige la regresion de acceso local introducida en V3.2.19.",
-                  "Restaura por completo el flujo de login y seguridad local.",
-                  "Elimina visualmente Resultado por centro, Ingresos vs Egresos y Detalle por centro.",
-                  "Corrige el bloque Tipo Todos/Ingresos/Egresos.",
-                  "Corrige distribucion y solapamientos de CxC y CxP.",
-                  "Mantiene Margen, Lectura ejecutiva, CxC, CxP y Composicion en una grilla simetrica."
+                  "Corrige el bloqueo de la pantalla de acceso local.",
+                  "La aplicacion ya no ejecuta renderizados antes de autenticar al usuario.",
+                  "Restaura usuario, contraseña y flujo de ingreso local.",
+                  "Conserva el dashboard simplificado de Rendimiento de centros de costo de V3.2.20.",
+                  "Sin cambios en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.20/CONTROL_FINANCIERO_CBI_V3.2.20_UPDATE.zip",
-    "packageSha256":  "c37ebf510f2819659f62c8493a537b8039e9f0a3f29e206169b39a7d40cc137b"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.21/CONTROL_FINANCIERO_CBI_V3.2.21_UPDATE.zip",
+    "packageSha256":  "d1c16e76808d65fcf142ba16805edeefea2fe6ed203ae8b1890a04539cfd66a1"
 }
