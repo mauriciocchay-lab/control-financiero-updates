@@ -1,15 +1,16 @@
 {
-    "version":  "3.2.11",
+    "version":  "3.2.12",
     "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Editor de Dashboard estabilizado para evitar saltos y movimiento de la pantalla.",
-                  "Los bloques ya no se reordenan continuamente mientras se arrastran; la posición se aplica al soltar.",
-                  "El redimensionado muestra una vista previa numérica y aplica el tamaño al soltar.",
-                  "Se mantiene la adaptación interna y scroll de tarjetas.",
+                  "El bloque de filtros queda fijo y fuera del editor de diseño.",
+                  "Las tarjetas de composición mantienen el tamaño de letra.",
+                  "Al reducir la altura de una composición aparece scroll interno.",
+                  "El contenido se reorganiza dentro de la tarjeta sin disminuir tipografía.",
+                  "Las tarjetas de centros reorganizan su contenido sin reducir letras.",
                   "Sin cambios en cálculos financieros ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.11/CONTROL_FINANCIERO_CBI_V3.2.11_UPDATE.zip",
-    "packageSha256":  "6baa4168af5ad0fb89aa43a0d582eeadaec7b80d094e7a3a7dc706a18760be7e"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.12/CONTROL_FINANCIERO_CBI_V3.2.12_UPDATE.zip",
+    "packageSha256":  "079a60556d1e0b981a3d1ad2830d7b6b17f5ed2b0e6e78c077ce8b9a1fd22186"
 }
