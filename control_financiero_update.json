@@ -1,18 +1,16 @@
 {
-    "version":  "3.2.16",
+    "version":  "3.2.17",
     "date":  "2026-10-06",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Nueva interfaz ejecutiva de Rendimiento de centros de costo.",
-                  "Graficos circulares de margen por centro.",
-                  "Filtro Tipo: Todos, Ingresos y Egresos.",
-                  "Comparacion de resultado e ingresos vs egresos por centro.",
-                  "Nueva lectura ejecutiva y composicion de ingresos y egresos.",
-                  "Graficos de cuentas por cobrar y cuentas por pagar con acceso filtrado a la seccion correspondiente.",
-                  "Detalle por centro de costo.",
-                  "Sin cambios en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Reordenamiento simetrico de la seccion Rendimiento de centros de costo.",
+                  "Lectura ejecutiva y composicion agrupadas en la columna derecha.",
+                  "Resultado e Ingresos vs Egresos equilibrados en dos columnas.",
+                  "CxC, CxP y Detalle por centro alineados en una fila inferior de tres columnas.",
+                  "Se mantienen filtros, drilldowns y navegacion.",
+                  "Sin cambios en logica financiera ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.16/CONTROL_FINANCIERO_CBI_V3.2.16_UPDATE.zip",
-    "packageSha256":  "1ad9b0625bada742e0b2337163335dedeed7ec3a553991299db16acec5e77fc0"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.17/CONTROL_FINANCIERO_CBI_V3.2.17_UPDATE.zip",
+    "packageSha256":  "7b12da1fc3f72d216071897e42ad201b799de999152d47129b3d2662959a6295"
 }
