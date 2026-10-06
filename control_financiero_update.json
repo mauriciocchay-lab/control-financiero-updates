@@ -1,16 +1,16 @@
 {
-    "version":  "3.2.7",
+    "version":  "3.2.8",
     "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Se elimina el gráfico redundante de ingresos vs egresos por centro.",
-                  "Las tarjetas de centros quedan horizontales y permiten drilldown al maestro desde ingresos y egresos.",
-                  "Se agregan tarjetas compactas de total ingresos, total egresos y resultado.",
-                  "La composición de ingresos y egresos queda compacta con scroll interno.",
-                  "El gráfico mensual usa mejor el espacio y muestra montos completos.",
-                  "Sin cambios en cálculos ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Dashboard personalizable con modo Editar diseño.",
+                  "Los bloques se pueden mover y redimensionar dentro de una grilla de 12 columnas.",
+                  "La distribución se guarda localmente en cada PC.",
+                  "Incluye Restaurar diseño predeterminado.",
+                  "En notebook el diseño se adapta automáticamente sin perder la configuración guardada.",
+                  "Sin cambios en cálculos financieros ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.7/CONTROL_FINANCIERO_CBI_V3.2.7_UPDATE.zip",
-    "packageSha256":  "d20164ccec51c1b3701830808997c0b476bcdd8522677d401500e08367d205db"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.8/CONTROL_FINANCIERO_CBI_V3.2.8_UPDATE.zip",
+    "packageSha256":  "53ab6716d6fc831dc8f8d46c9a572841421078e5849d4f74f2ed0d39dccb367e"
 }
