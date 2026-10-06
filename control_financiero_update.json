@@ -1,16 +1,18 @@
 {
-    "version":  "3.2.15",
+    "version":  "3.2.16",
     "date":  "2026-10-06",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Margen y utilidad se destacan en verde cuando son positivos y rojo cuando son negativos.",
-                  "Valores inferiores del gráfico mensual aumentados para mejorar su lectura.",
-                  "Las composiciones muestran todas las categorías con scroll interno vertical.",
-                  "Porcentajes y montos de composición aumentados aprovechando el espacio disponible.",
-                  "La tarjeta mantiene su tamaño; el desplazamiento ocurre solo dentro de la composición.",
-                  "Sin cambios en lógica financiera ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Nueva interfaz ejecutiva de Rendimiento de centros de costo.",
+                  "Graficos circulares de margen por centro.",
+                  "Filtro Tipo: Todos, Ingresos y Egresos.",
+                  "Comparacion de resultado e ingresos vs egresos por centro.",
+                  "Nueva lectura ejecutiva y composicion de ingresos y egresos.",
+                  "Graficos de cuentas por cobrar y cuentas por pagar con acceso filtrado a la seccion correspondiente.",
+                  "Detalle por centro de costo.",
+                  "Sin cambios en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.15/CONTROL_FINANCIERO_CBI_V3.2.15_UPDATE.zip",
-    "packageSha256":  "e7160e4e21d1e501c802e01ae4032cd90217f191b8632bc5d5d0e6d07d901d3a"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.16/CONTROL_FINANCIERO_CBI_V3.2.16_UPDATE.zip",
+    "packageSha256":  "1ad9b0625bada742e0b2337163335dedeed7ec3a553991299db16acec5e77fc0"
 }
