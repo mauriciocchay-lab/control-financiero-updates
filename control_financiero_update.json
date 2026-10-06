@@ -1,16 +1,18 @@
 {
-    "version":  "3.2.12",
+    "version":  "3.2.13",
     "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "El bloque de filtros queda fijo y fuera del editor de diseño.",
-                  "Las tarjetas de composición mantienen el tamaño de letra.",
-                  "Al reducir la altura de una composición aparece scroll interno.",
-                  "El contenido se reorganiza dentro de la tarjeta sin disminuir tipografía.",
-                  "Las tarjetas de centros reorganizan su contenido sin reducir letras.",
-                  "Sin cambios en cálculos financieros ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Nueva interfaz fija del Dashboard basada en el diseño aprobado.",
+                  "Se elimina completamente la edición, movimiento y redimensionado de tarjetas.",
+                  "Tarjetas de centros de costo con iconos y acceso directo al Registro Maestro.",
+                  "Resumen lateral del período con mayor ingreso, mayor egreso, mayor resultado y centro crítico.",
+                  "Gráfico mensual mantiene drilldown por mes y muestra montos completos.",
+                  "Composición de ingresos y egresos mantiene drilldown por categoría y acceso al Maestro.",
+                  "Filtros permanecen fijos.",
+                  "Sin cambios en lógica financiera ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.12/CONTROL_FINANCIERO_CBI_V3.2.12_UPDATE.zip",
-    "packageSha256":  "079a60556d1e0b981a3d1ad2830d7b6b17f5ed2b0e6e78c077ce8b9a1fd22186"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.13/CONTROL_FINANCIERO_CBI_V3.2.13_UPDATE.zip",
+    "packageSha256":  "4ead047d1f568ac3ea10951231466e10465e7ee4f373f42c78cc6e1fcae4e7f8"
 }
