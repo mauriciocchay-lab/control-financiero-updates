@@ -1,19 +1,16 @@
 {
-    "version":  "3.2.14",
-    "date":  "2026-10-05",
+    "version":  "3.2.15",
+    "date":  "2026-10-06",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Dashboard rediseñado según la interfaz visual aprobada.",
-                  "Cinco KPI superiores: ingresos, egresos, utilidad, saldo Banco Chile y transferencias internas.",
-                  "Filtros fijos con botón Limpiar filtros.",
-                  "Cinco tarjetas de centros de costo con iconos, color propio y navegación al Maestro.",
-                  "Gráfico mensual con montos completos y selección por mes.",
-                  "Resumen del período con mayor ingreso, mayor egreso, mayor resultado y centro crítico.",
-                  "Composición de ingresos y egresos en Top 5 con acceso al Maestro por categoría.",
-                  "Se elimina definitivamente la edición y redimensionado del Dashboard.",
+                  "Margen y utilidad se destacan en verde cuando son positivos y rojo cuando son negativos.",
+                  "Valores inferiores del gráfico mensual aumentados para mejorar su lectura.",
+                  "Las composiciones muestran todas las categorías con scroll interno vertical.",
+                  "Porcentajes y montos de composición aumentados aprovechando el espacio disponible.",
+                  "La tarjeta mantiene su tamaño; el desplazamiento ocurre solo dentro de la composición.",
                   "Sin cambios en lógica financiera ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.14/CONTROL_FINANCIERO_CBI_V3.2.14_UPDATE.zip",
-    "packageSha256":  "30538b233b88b4aa65e0ce3fb2e49b67529ee3663060d624b26e7b5ddc4178d5"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.15/CONTROL_FINANCIERO_CBI_V3.2.15_UPDATE.zip",
+    "packageSha256":  "e7160e4e21d1e501c802e01ae4032cd90217f191b8632bc5d5d0e6d07d901d3a"
 }
