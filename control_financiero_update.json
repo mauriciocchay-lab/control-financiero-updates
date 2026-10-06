@@ -1,18 +1,19 @@
 {
-    "version":  "3.2.13",
+    "version":  "3.2.14",
     "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Nueva interfaz fija del Dashboard basada en el diseño aprobado.",
-                  "Se elimina completamente la edición, movimiento y redimensionado de tarjetas.",
-                  "Tarjetas de centros de costo con iconos y acceso directo al Registro Maestro.",
-                  "Resumen lateral del período con mayor ingreso, mayor egreso, mayor resultado y centro crítico.",
-                  "Gráfico mensual mantiene drilldown por mes y muestra montos completos.",
-                  "Composición de ingresos y egresos mantiene drilldown por categoría y acceso al Maestro.",
-                  "Filtros permanecen fijos.",
+                  "Dashboard rediseñado según la interfaz visual aprobada.",
+                  "Cinco KPI superiores: ingresos, egresos, utilidad, saldo Banco Chile y transferencias internas.",
+                  "Filtros fijos con botón Limpiar filtros.",
+                  "Cinco tarjetas de centros de costo con iconos, color propio y navegación al Maestro.",
+                  "Gráfico mensual con montos completos y selección por mes.",
+                  "Resumen del período con mayor ingreso, mayor egreso, mayor resultado y centro crítico.",
+                  "Composición de ingresos y egresos en Top 5 con acceso al Maestro por categoría.",
+                  "Se elimina definitivamente la edición y redimensionado del Dashboard.",
                   "Sin cambios en lógica financiera ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.13/CONTROL_FINANCIERO_CBI_V3.2.13_UPDATE.zip",
-    "packageSha256":  "4ead047d1f568ac3ea10951231466e10465e7ee4f373f42c78cc6e1fcae4e7f8"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.14/CONTROL_FINANCIERO_CBI_V3.2.14_UPDATE.zip",
+    "packageSha256":  "30538b233b88b4aa65e0ce3fb2e49b67529ee3663060d624b26e7b5ddc4178d5"
 }
