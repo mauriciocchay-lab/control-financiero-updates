@@ -1,15 +1,16 @@
 {
-    "version":  "3.2.19",
+    "version":  "3.2.20",
     "date":  "2026-10-06",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Se simplifica y reordena la seccion Rendimiento de centros de costo.",
-                  "Se eliminan los bloques Resultado por centro, Ingresos vs Egresos y Detalle por centro de costo.",
-                  "La pantalla queda organizada con Margen por centro y Lectura ejecutiva en la fila superior.",
-                  "CxC, CxP y Composicion de ingresos/egresos quedan alineados en una fila inferior simetrica.",
-                  "Se corrige el contenedor del filtro Tipo y la distribucion interna de los donuts CxC/CxP."
+                  "Corrige la regresion de acceso local introducida en V3.2.19.",
+                  "Restaura por completo el flujo de login y seguridad local.",
+                  "Elimina visualmente Resultado por centro, Ingresos vs Egresos y Detalle por centro.",
+                  "Corrige el bloque Tipo Todos/Ingresos/Egresos.",
+                  "Corrige distribucion y solapamientos de CxC y CxP.",
+                  "Mantiene Margen, Lectura ejecutiva, CxC, CxP y Composicion en una grilla simetrica."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.19/CONTROL_FINANCIERO_CBI_V3.2.19_UPDATE.zip",
-    "packageSha256":  "5c27a265b7e2542e748f2902942dd31b4de736b19a2684d704095fbf7919c860"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.20/CONTROL_FINANCIERO_CBI_V3.2.20_UPDATE.zip",
+    "packageSha256":  "c37ebf510f2819659f62c8493a537b8039e9f0a3f29e206169b39a7d40cc137b"
 }
