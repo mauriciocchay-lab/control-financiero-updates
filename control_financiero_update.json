@@ -1,16 +1,16 @@
 {
-    "version":  "3.2.5",
+    "version":  "3.2.6",
     "date":  "2026-10-05",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Dashboard reordenado para lectura ejecutiva.",
-                  "Composición de ingresos y egresos trasladada bajo el resumen por centro.",
-                  "Comparación de centros ubicada en el panel lateral principal.",
-                  "Gráfico mensual ampliado y con mayor legibilidad numérica.",
-                  "Eliminado el resumen total redundante del período.",
-                  "Sin cambios en cálculos ni en BASE_CONTROL_FINANCIERO.xlsx."
+                  "Grafico mensual con mayor espacio y montos completos.",
+                  "Se eliminan prefijos I/E bajo cada mes.",
+                  "Composicion de ingresos y egresos limitada a cinco categorias visibles con scroll interno.",
+                  "Comparacion de centros de costo en una sola columna vertical.",
+                  "Dashboard general mas compacto.",
+                  "Sin cambios en calculos financieros ni en BASE_CONTROL_FINANCIERO.xlsx."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.5/CONTROL_FINANCIERO_CBI_V3.2.5_UPDATE.zip",
-    "packageSha256":  "facaf1fe2f2da08c911e4af223c4f019e6320c1f7b452e700b7fb3293d490163"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.6/CONTROL_FINANCIERO_CBI_V3.2.6_UPDATE.zip",
+    "packageSha256":  "a058503216722e88e2fdef51b777a0aae59b8ebd8061304ae8ea8d3f5df34b59"
 }
