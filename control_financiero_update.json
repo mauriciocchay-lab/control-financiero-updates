@@ -1,18 +1,17 @@
 {
-    "version":  "3.2.23",
+    "version":  "3.2.24",
     "date":  "2026-10-08",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Base V3.2.22 estable conservada, incluido el acceso local.",
-                  "PDF del Dashboard redisenado en una pagina con logo CBI, tonos pastel y la misma informacion/graficos de la seccion.",
-                  "PDF de Rendimiento de centros redisenado en una pagina con logo CBI, tonos pastel y la misma informacion/graficos de la seccion.",
-                  "Filtro Todos/Ingresos/Egresos de Rendimiento aplicado a KPIs, margen, lectura ejecutiva, composicion, CxC/CxP, PDF, vista previa y exportacion Excel.",
-                  "El boton Actualizar independiente del Dashboard se elimina; la actualizacion manual queda disponible haciendo clic en EXCEL: CONECTADO · VALIDADO.",
-                  "CxC/CxP y Cartolas aprovechan mayor altura de pantalla para mostrar mas registros.",
-                  "No se reorganiza visualmente la seccion Rendimiento de centros.",
-                  "Sin cambios en la fuente maestra Excel ni en la logica de acceso local."
+                  "Cambios exclusivamente en Rendimiento de centros de costo.",
+                  "Margen por centro se reemplaza por comparacion de ingresos y egresos por centro.",
+                  "El comparativo ocupa el espacio disponible sin redistribuir la seccion.",
+                  "Respeta filtros de centro, mes, ano y tipo.",
+                  "Se eliminan las lineas de tendencia de los KPI superiores de Rendimiento.",
+                  "El PDF de Rendimiento reproduce el comparativo y aprovecha el espacio del bloque.",
+                  "Dashboard, CxC/CxP, Cartolas, login, Excel y logica financiera permanecen sin cambios."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.23/CONTROL_FINANCIERO_CBI_V3.2.23_UPDATE.zip",
-    "packageSha256":  "37c68bed417cd213ceb487151c1a34de030f88208d426ab22627e60dd94aa8aa"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.24/CONTROL_FINANCIERO_CBI_V3.2.24_UPDATE.zip",
+    "packageSha256":  "f62a030a8a9a70f756e23dba38d5e7636842bfca1508bf5cc1c3823c50fa9bee"
 }
