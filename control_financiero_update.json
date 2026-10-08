@@ -1,17 +1,16 @@
 {
-    "version":  "3.2.24",
+    "version":  "3.2.25",
     "date":  "2026-10-08",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "Cambios exclusivamente en Rendimiento de centros de costo.",
-                  "Margen por centro se reemplaza por comparacion de ingresos y egresos por centro.",
-                  "El comparativo ocupa el espacio disponible sin redistribuir la seccion.",
-                  "Respeta filtros de centro, mes, ano y tipo.",
-                  "Se eliminan las lineas de tendencia de los KPI superiores de Rendimiento.",
-                  "El PDF de Rendimiento reproduce el comparativo y aprovecha el espacio del bloque.",
-                  "Dashboard, CxC/CxP, Cartolas, login, Excel y logica financiera permanecen sin cambios."
+                  "Rendimiento centros: comparacion visual estilo Dashboard con barras de ingresos, egresos y linea de resultado.",
+                  "El grafico permite comparar rapidamente el comportamiento de los centros seleccionados.",
+                  "Respeta los filtros Centro, Mes, Ano y Tipo.",
+                  "El PDF de Rendimiento reproduce el mismo grafico comparativo.",
+                  "Cartolas aprovecha toda la altura util de la pantalla para mostrar registros hasta abajo.",
+                  "No se modifica login, Excel ni logica financiera."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.24/CONTROL_FINANCIERO_CBI_V3.2.24_UPDATE.zip",
-    "packageSha256":  "f62a030a8a9a70f756e23dba38d5e7636842bfca1508bf5cc1c3823c50fa9bee"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.25/CONTROL_FINANCIERO_CBI_V3.2.25_UPDATE.zip",
+    "packageSha256":  "46a6d6b582c576bb4a817a5690054068f6aa51f87d78bdf244c380e45e2503de"
 }
