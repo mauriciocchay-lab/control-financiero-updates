@@ -1,15 +1,18 @@
 {
-    "version":  "3.2.22",
-    "date":  "2026-10-06",
+    "version":  "3.2.23",
+    "date":  "2026-10-08",
     "channel":  "ESTABLE",
     "updateType":  "internal-zip",
     "notes":  [
-                  "El formulario de acceso queda visible por defecto para evitar pantalla vacia.",
-                  "La autenticacion se inicializa inmediatamente despues de registrar los eventos del login.",
-                  "Se agrega recuperacion automatica si ambos formularios quedan ocultos.",
-                  "Errores visuales posteriores al login ya no bloquean el acceso local.",
-                  "Mantiene el dashboard de Rendimiento simplificado de la version anterior."
+                  "Base V3.2.22 estable conservada, incluido el acceso local.",
+                  "PDF del Dashboard redisenado en una pagina con logo CBI, tonos pastel y la misma informacion/graficos de la seccion.",
+                  "PDF de Rendimiento de centros redisenado en una pagina con logo CBI, tonos pastel y la misma informacion/graficos de la seccion.",
+                  "Filtro Todos/Ingresos/Egresos de Rendimiento aplicado a KPIs, margen, lectura ejecutiva, composicion, CxC/CxP, PDF, vista previa y exportacion Excel.",
+                  "El boton Actualizar independiente del Dashboard se elimina; la actualizacion manual queda disponible haciendo clic en EXCEL: CONECTADO · VALIDADO.",
+                  "CxC/CxP y Cartolas aprovechan mayor altura de pantalla para mostrar mas registros.",
+                  "No se reorganiza visualmente la seccion Rendimiento de centros.",
+                  "Sin cambios en la fuente maestra Excel ni en la logica de acceso local."
               ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.22/CONTROL_FINANCIERO_CBI_V3.2.22_UPDATE.zip",
-    "packageSha256":  "ed269aea61c287a2fecea4cb1e97d0f1825341245f431f886f9875c0d4a08a90"
+    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.23/CONTROL_FINANCIERO_CBI_V3.2.23_UPDATE.zip",
+    "packageSha256":  "37c68bed417cd213ceb487151c1a34de030f88208d426ab22627e60dd94aa8aa"
 }
