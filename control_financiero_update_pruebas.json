@@ -1,0 +1,13 @@
+{
+  "version": "3.2.26",
+  "date": "2026-10-29",
+  "channel": "PRUEBAS",
+  "updateType": "internal-zip",
+  "notes": [
+    "RC1 solo para entorno aislado; NO INSTALAR sobre produccion.",
+    "Revision deteccion de duplicados y numero de documento asociado.",
+    "Probar exclusivamente con copia de Excel maestro y verificar posibilidad de restauracion."
+  ],
+  "packageUrl": "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.26-rc1/CBI_V326_RC1_GITHUB.zip",
+  "packageSha256": "ea99efed0394a19f15e1b9cce9dde50f289a1790f4503e17f0eea52213a41356"
+}
