@@ -1,0 +1,15 @@
+{
+  "version": "3.2.26",
+  "date": "2026-11-07",
+  "channel": "ESTABLE",
+  "updateType": "internal-zip",
+  "notes": [
+    "Conciliación bancaria manual con reversión, bloqueo de doble conciliación e historial de trazabilidad.",
+    "Saldos bancarios leídos de los saldos registrados en cartolas.",
+    "Restauración de versión anterior visible también cuando no hay nuevas actualizaciones.",
+    "Los historiales de conciliación son locales por computador; no se sincronizan automáticamente.",
+    "No modifica el Excel maestro ni las credenciales existentes durante la actualización."
+  ],
+  "packageUrl": "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.26/CONTROL_FINANCIERO_CBI_V3.2.26_UPDATE_FINAL_RESTAURACION.zip",
+  "packageSha256": "7d020d5068c10d293600c4dddff42dc0811e4dae11a729947b97ad28dcb02d65"
+}
