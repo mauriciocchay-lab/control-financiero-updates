@@ -1,16 +1,15 @@
 {
-    "version":  "3.2.25",
-    "date":  "2026-10-08",
-    "channel":  "ESTABLE",
-    "updateType":  "internal-zip",
-    "notes":  [
-                  "Rendimiento centros: comparacion visual estilo Dashboard con barras de ingresos, egresos y linea de resultado.",
-                  "El grafico permite comparar rapidamente el comportamiento de los centros seleccionados.",
-                  "Respeta los filtros Centro, Mes, Ano y Tipo.",
-                  "El PDF de Rendimiento reproduce el mismo grafico comparativo.",
-                  "Cartolas aprovecha toda la altura util de la pantalla para mostrar registros hasta abajo.",
-                  "No se modifica login, Excel ni logica financiera."
-              ],
-    "packageUrl":  "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.25/CONTROL_FINANCIERO_CBI_V3.2.25_UPDATE.zip",
-    "packageSha256":  "46a6d6b582c576bb4a817a5690054068f6aa51f87d78bdf244c380e45e2503de"
+  "version": "3.2.26",
+  "date": "2026-11-07",
+  "channel": "ESTABLE",
+  "updateType": "internal-zip",
+  "notes": [
+    "Conciliación bancaria manual con reversión, bloqueo de doble conciliación e historial de trazabilidad.",
+    "Saldos bancarios tomados de los saldos registrados en cartolas.",
+    "Corrección de visualización del botón de restauración, incluso si la aplicación ya está actualizada.",
+    "El historial de conciliaciones es local por computador; no se sincroniza automáticamente.",
+    "El Excel maestro externo y las credenciales existentes no se reemplazan durante la actualización."
+  ],
+  "packageUrl": "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.26/CONTROL_FINANCIERO_CBI_V3.2.26_UPDATE_FINAL_RESTAURACION.zip",
+  "packageSha256": "7d020d5068c10d293600c4dddff42dc0811e4dae11a729947b97ad28dcb02d65"
 }
