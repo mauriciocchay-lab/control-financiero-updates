@@ -1,0 +1,14 @@
+{
+  "version": "3.2.26",
+  "date": "2026-11-07",
+  "channel": "PRUEBA",
+  "updateType": "internal-zip",
+  "notes": [
+    "Candidata para prueba supervisada; NO es versión estable ni debe instalarse en producción.",
+    "Conciliación manual, reversión e historial.",
+    "Saldos bancarios provenientes de los saldos registrados en cartolas.",
+    "Historial de conciliaciones local por computador; no existe sincronización entre equipos."
+  ],
+  "packageUrl": "https://github.com/mauriciocchay-lab/control-financiero-updates/releases/download/v3.2.26-rc-final/CONTROL_FINANCIERO_CBI_V3.2.26_UPDATE_CANDIDATA_NO_INSTALAR.zip",
+  "packageSha256": "d4809e7d93c7ee76a5d669ee981873a5ffc67234071bd2b1f75780229f0123e8"
+}
